@@ -1,9 +1,9 @@
 # Virtual-Telecaller
----
 ## Overview
 
 Virtual Telecaller is a web-based AI-powered voice assistant that handles real-time user interactions through a browser interface. It combines speech recognition for transcribing spoken queries, a fine-tuned Meta-LLaMA 3.2B-Instruct model for intelligent natural language responses, and text-to-speech (TTS) for delivering lifelike replies. Designed for customer support, lead generation, and appointment scheduling, it operates 24/7 as a scalable and cost-effective alternative to traditional telecalling systems.
 
+---
 
 ## Live Demo
 https://github.com/user-attachments/assets/300d5828-e7e5-4558-b779-fc7fd03737ea
